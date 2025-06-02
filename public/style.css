@@ -1,0 +1,10 @@
+body {
+  background-color: #f4f7fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-weight: 700;
+}
+#resultBox {
+  min-height: 120px;
+}
