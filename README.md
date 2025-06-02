@@ -31,7 +31,7 @@ Dans la recherche scientifique, l’hypothèse est une **affirmation provisoire*
 
 ## ⚙️ Installation locale
 ```bash
-git clone https://github.com/votre-nom/hypothesis-builder.git
+git clone https://github.com/EJM0101/hypothesis-builder.git
 cd hypothesis-builder
 npm install
 cp .env.example .env
